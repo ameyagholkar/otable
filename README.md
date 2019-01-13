@@ -1,2 +1,0 @@
-# otable
-Created with CodeSandbox
